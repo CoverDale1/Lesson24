@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1678629620249,195,GET HTTP Request,200,OK,GET Thread Group 1-1,text,false,"The operation lasted too long: It took 195 milliseconds, but should not have lasted longer than 100 milliseconds.",28562,138,1,1,https://jsonplaceholder.typicode.com/posts,189,0,138
+1678629620445,56,GET HTTP Request,200,OK,GET Thread Group 1-1,text,true,,28547,138,1,1,https://jsonplaceholder.typicode.com/posts,51,0,0
+1678629620503,67,GET HTTP Request,200,OK,GET Thread Group 1-1,text,true,,28553,138,1,1,https://jsonplaceholder.typicode.com/posts,56,0,0
